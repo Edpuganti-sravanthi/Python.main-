@@ -1,0 +1,12 @@
+FILE 1: student _manager.py
+This file is for Add Student + Validate Email using Regex
++ Save to File
+<>
+Python code
+View code
+import re
+import json
+import os
+DATA_FILE = "students.json"
+EMAIL_REGEX =r'A[a-ZA-Z0-9. %+-]+@[a-zA-Z0-9.def validate_email(email):
+return re,match(EMAIL_REGEX, email) is not
