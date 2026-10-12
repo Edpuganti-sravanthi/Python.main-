@@ -1,0 +1,11 @@
+FILE 2: student_reader.py
+This file is for Read Student Data + Handle Invalid Input
+using Exceptions
+>
+Python code
+View code
+import json
+import os
+DATA_FILE = "students.json"def read_student_data()：
+try:
+print("--- Reading Student Data ---")
